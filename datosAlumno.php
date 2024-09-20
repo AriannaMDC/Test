@@ -10,3 +10,9 @@
         </form>
     </body>
 </html>
+
+<?php
+
+// Codi
+
+?>
